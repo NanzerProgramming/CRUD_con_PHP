@@ -45,23 +45,4 @@ mysqli_close($conexion);
 
 ?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </script>
